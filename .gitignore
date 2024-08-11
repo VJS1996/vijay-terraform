@@ -1,2 +1,5 @@
 day01/.terraform
 day02/.terraform
+day05/.terraform
+day05/modules/ec2_instance/.terraform
+day05/terraform.tfstate.d
